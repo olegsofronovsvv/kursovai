@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200">
+  <rect width="800" height="1200" fill="#5b2e18"/>
+  <rect x="120" y="180" width="560" height="760" rx="32" fill="#8c4c28"/>
+  <text x="400" y="470" text-anchor="middle" fill="#ffe1b5" font-size="140" font-family="Arial" font-weight="700">ХОЛОП</text>
+  <text x="400" y="560" text-anchor="middle" fill="#fff0d5" font-size="32" font-family="Arial">KHОЛОП · 2019</text>
+  <text x="400" y="790" text-anchor="middle" fill="#ffd29a" font-size="28" font-family="Arial">Комедия о перевоспитании и втором шансе</text>
+</svg>

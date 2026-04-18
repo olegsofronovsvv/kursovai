@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200">
+  <rect width="800" height="1200" fill="#13304d"/>
+  <circle cx="280" cy="360" r="110" fill="#f6d6b1"/>
+  <circle cx="520" cy="360" r="110" fill="#2b2018"/>
+  <text x="400" y="760" text-anchor="middle" fill="#ffffff" font-size="160" font-family="Arial" font-weight="700">1+1</text>
+  <text x="400" y="850" text-anchor="middle" fill="#dfeeff" font-size="34" font-family="Arial">THE INTOUCHABLES · 2011</text>
+</svg>

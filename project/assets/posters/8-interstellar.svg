@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200">
+  <rect width="800" height="1200" fill="#08111f"/>
+  <circle cx="400" cy="420" r="220" fill="#dfe8f8"/>
+  <circle cx="400" cy="420" r="165" fill="#08111f"/>
+  <text x="400" y="840" text-anchor="middle" fill="#ffffff" font-size="88" font-family="Arial" font-weight="700">ИНТЕРСТЕЛЛАР</text>
+  <text x="400" y="930" text-anchor="middle" fill="#d8e8ff" font-size="34" font-family="Arial">INTERSTELLAR · 2014</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200">
+  <rect width="800" height="1200" fill="#1b0b0d"/>
+  <path d="M410 190 C520 350 540 490 400 860 C260 490 280 350 390 190 Z" fill="#a3121f"/>
+  <text x="400" y="790" text-anchor="middle" fill="#ffffff" font-size="180" font-family="Arial" font-weight="700">ОНО</text>
+  <text x="400" y="900" text-anchor="middle" fill="#ffb2b6" font-size="34" font-family="Arial">IT · 2017</text>
+</svg>

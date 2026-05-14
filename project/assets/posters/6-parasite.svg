@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200">
-  <rect width="800" height="1200" fill="#243329"/>
-  <rect x="120" y="190" width="560" height="720" rx="28" fill="#31453a"/>
-  <rect x="230" y="430" width="120" height="26" fill="#111"/>
-  <rect x="450" y="430" width="120" height="26" fill="#111"/>
-  <text x="400" y="760" text-anchor="middle" fill="#f1f5e8" font-size="108" font-family="Arial" font-weight="700">ПАРАЗИТЫ</text>
-  <text x="400" y="850" text-anchor="middle" fill="#d9ead8" font-size="34" font-family="Arial">PARASITE · 2019</text>
-</svg>

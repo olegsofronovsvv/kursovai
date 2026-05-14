@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200">
-  <rect width="800" height="1200" fill="#151515"/>
-  <rect x="80" y="160" width="640" height="820" rx="32" fill="#232323" stroke="#d8b36c" stroke-width="4"/>
-  <text x="400" y="420" text-anchor="middle" fill="#f0cf8d" font-size="90" font-family="Arial" font-weight="700">ДЖЕНТЛЬМЕНЫ</text>
-  <text x="400" y="520" text-anchor="middle" fill="#f4e1b9" font-size="34" font-family="Arial">THE GENTLEMEN · 2019</text>
-  <text x="400" y="820" text-anchor="middle" fill="#ffffff" font-size="28" font-family="Arial">Стиль. Сделки. Идеальный криминальный хаос.</text>
-</svg>
